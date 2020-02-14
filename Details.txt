@@ -1,0 +1,19 @@
+1. Scenario 
+1.1. Measuring Temperature 
+1.2. Measuring Humidity 
+1.3. Sends data to a server 
+1.4. A telegram bot to read the data from the server 
+1.4.1. Each user should have a special ID (no implementation needed) 
+1.5. A web based panel 
+2. Equipment 
+2.1. Controller Board 
+2.2. Sensor 
+2.3. Electronic component 
+3. Programming 
+3.1. Hardware Programming 
+3.2. Internet of Things 
+3.2.1. API (flask?!) 
+3.2.2. Database (SQLite) 
+3.2.3. Data analyze
+3.3. Telegram bot (Ruby?) 
+4. Deploy 
